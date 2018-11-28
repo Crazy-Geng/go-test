@@ -11,7 +11,7 @@ import (
 	"os"
 )
 
-type test struct {
+type test1 struct {
 	A string
 	B bool
 }
