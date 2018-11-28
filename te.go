@@ -1,4 +1,4 @@
-package main
+package test
 
 import (
 	"fmt"
@@ -16,7 +16,7 @@ type test struct {
 	B bool
 }
 
-func main() {
+func test() {
 	/*
 		tt := "aa,bb,cc,dd"
 		res := make(map[string]interface{})
