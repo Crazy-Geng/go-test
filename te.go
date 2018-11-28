@@ -35,7 +35,7 @@ func main() {
 		bb := "aaaa"
 		fmt.Println(&bb)
 	*/
-	aa := "HHHHe Hffff"
+	//aa := "HHHHe Hffff"
 	//fmt.Errorf(format, ...)
 	err := os.MkdirAll("/tmp/fktest", 0755)
 	if err != nil {
